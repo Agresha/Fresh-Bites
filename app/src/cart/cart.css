@@ -1,0 +1,18 @@
+.cart__subtotal {
+    color: #df2020;
+    font-size: 1.5rem;
+}
+.addTOCart__btn a{
+    text-decoration: none;
+    color: white;
+}
+.cart-text{
+    font-weight: 600;
+}
+.cart-prize{
+    font-weight: bolder;
+    font-size: 18px;
+}
+.cart-empty{
+    font-size: 22px;
+}

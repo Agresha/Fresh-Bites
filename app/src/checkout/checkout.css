@@ -1,0 +1,12 @@
+.checkout__bill{
+    background-color:#fde4e4;
+    padding: 30px;
+}
+.checkout__bill h6{
+    font-weight: bolder;
+    font-size: 18px;
+}
+.checkout__total h5{
+    font-weight: bolder;
+
+}

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700&display=swap');
+*{
+    font-family: "Nunito", sans-serif;
+    font-weight: bolder;
+    color:#212245
+}
+.footer {
+    background: #fde4e4;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.footer__logo img{
+    width: 43px;
+    height: 43px;
+}
+.footer__logo h5{
+    font-weight: bolder;
+}
+.footer__logo p {
+    color: black;
+    font-size: .9rem;
+    line-height: 28px;
+}
+.footer__title {
+    color: #212245;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+.delivery__time-item span {
+    color: #212245;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.delivery__time-item p {
+    color: #212245;
+    font-weight: 550;
+}
+.delivery__time-item{
+    background-color: #fde4e4 ;
+}
+.newsletter {
+    align-items: center;
+    border: 1px solid #212245;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.newsletter input {
+    background: #0000;
+    border: none;
+    outline: none;
+}
+.newsletter span {
+    background: #df2020;
+    border-radius: 5px;
+    padding: 5px 30px;
+}
+.newsletter span i {
+    color: #fff;
+}
+.copyright__text {
+    color: #df2020;
+    font-size: .8rem;
+}
+.deliver__time-list{
+    background-color: #fde4e4;
+
+}
+.social__links a{
+    text-decoration: none;
+}
+.social__links i {
+    background: #df2020;
+    border-radius: 50%;
+    color: #fff;
+    font-weight: 500;
+    padding: 5px;
+}
+.social__links span{
+    background-color: #df2020;
+    border-radius: 50%;
+}

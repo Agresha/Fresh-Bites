@@ -1,0 +1,9 @@
+.search__widget, .sorting__widget select {
+    border: 1px solid #fde4e4;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 7px 15px;
+}
+input{
+    border: none;
+}
